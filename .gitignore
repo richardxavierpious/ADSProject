@@ -1,0 +1,13 @@
+# Ignore large/raw data files
+data.csv
+drive_data.csv
+*.parquet
+
+# Python / Streamlit typical ignores
+__pycache__/
+*.py[cod]
+.streamlit/
+.venv/
+venv/
+env/
+*.log
